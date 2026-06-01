@@ -1,3 +1,6 @@
+![图1](./images/1.png)
+![图2](./images/2.png)
+
 # RAG 知识库演示系统
 
 一个包含前端与后端的端到端 Retrieval-Augmented Generation（RAG）演示项目。前端提供对话体验与知识库管理界面，后端负责会话管理、文档检索、引用持久化以及与大模型的流式通信。
